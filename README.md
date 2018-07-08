@@ -2,36 +2,36 @@
 Made with:
 
 - React
-    react-router
-    react-emotion 
-    react-screen
-    react-particles-js
-    reshake
+    <br>- react-router
+    <br>- react-emotion 
+    <br>- react-screen
+    <br>- react-particles-js
+    <br>- reshake
 
 - CSS Libraries
-    sanitize.css
-    csshake
+    <br>- sanitize.css
+    <br>- csshake
 
 - Responsive
-    flexbox
-    grid
-    @media screen
+    <br>- flexbox
+    <br>- grid
+    <br>- @media screen
 
 - Accessibility
-    tabbing
-    @media speech
+    <br>- tabbing
+    <br>- @media speech
 
 - Minification
-    uglify-webpack-plugin
+    <br>- uglify-webpack-plugin
 
 - Bundling
-    webpack
+    <br>- webpack
 
 - Protection:
-    snyk
+    <br>- snyk
 
 - Deploying
-    firebase
+    <br>- firebase
 
 
 
