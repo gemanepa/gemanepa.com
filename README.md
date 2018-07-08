@@ -22,7 +22,7 @@ Made with:
     <br>- @media speech
 
 - Minification
-    <br>- uglify-webpack-plugin
+    <br>- uglify
 
 - Bundling
     <br>- webpack
