@@ -1,6 +1,6 @@
 # https://gemanepa.com
 
-Made with:
+Developed with:
 
 - React
     <br>- react-router
