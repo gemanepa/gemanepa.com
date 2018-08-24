@@ -12,6 +12,7 @@ Developed with:
 - CSS Libraries
     <br>- sanitize.css
     <br>- csshake
+    <br>- hint.css
 
 - Responsive
     <br>- flexbox
